@@ -1,0 +1,8 @@
+Two Five Infection - code is free to use.
+
+1.0.1  22/7/2025 
+ - Reduce Plague Spitter to 1/4 spawn rate. Reduced spawn freqency. 
+ - Reduce Frost Claw to 1/4 spawn rate. Reduced spawn frequency.
+ - Reduced Challenge requirements for number of Plague Spitter kills from 10 to 6 (due to reduced spawns)
+ - Reduced Challenge requirements for number of Frost Claw kills from 15 to 9 (due to reduced spawns)
+ 

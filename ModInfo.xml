@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="BiomeSpawns" /> 
+    <DisplayName value="BiomeSpawns" />
+    <Version value="1.0.0.1" /> 
+    <Description value="Reduces Spitter and Frost Claw Spawns" /> 
+    <Author value="JoeSloeMoe" /> 
+    <Website value="" /> 
+</xml>

@@ -1,0 +1,17 @@
+<configs>
+	
+	<remove xpath="/spawning/biome[@name='desert']/spawn[@id='dz01']"/>
+	<remove xpath="/spawning/biome[@name='desert']/spawn[@id='nz04']"/>
+	<remove xpath="/spawning/biome[@name='snow']/spawn[@id='dz01']"/>
+	<remove xpath="/spawning/biome[@name='snow']/spawn[@id='nz04']"/>
+	
+	<insertBefore xpath="/spawning/biome[@name='desert']/spawn[@id='dz04']">
+		<spawn id="dz01" maxcount="1" respawndelay="2.6" time="Day" entitygroup="ZombiesDesert" notags="commercial,industrial,downtown" />
+		<spawn id="nz04" maxcount="1" respawndelay="2.3" time="Night" entitygroup="ZombiesDesertNight" notags="commercial,industrial,downtown" />
+	</insertBefore>
+	
+	<insertBefore xpath="/spawning/biome[@name='snow']/spawn[@id='dz04']">
+		<spawn id="dz01" maxcount="1" respawndelay="2.6" time="Day" entitygroup="ZombiesSnow" notags="downtown" />
+		<spawn id="nz04" maxcount="1" respawndelay="2.3" time="Night" entitygroup="ZombiesSnowNight" notags="downtown" />
+	</insertBefore>
+</configs>
