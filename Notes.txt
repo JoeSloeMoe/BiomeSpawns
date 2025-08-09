@@ -8,5 +8,6 @@ Two Five Infection - code is free to use.
  
  1.0.2 9th Aug 2025
  - Update for 2.2 compatibility
- - remove challenge requirements as no longer nessessary
+ - remove challenge requirements as no longer necessary
+
  - Updated description
